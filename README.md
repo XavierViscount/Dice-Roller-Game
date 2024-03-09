@@ -1,2 +1,2 @@
 # Dice-Roller-Game
-A dice roller game with pictures
+Dice amounts choosable Dice roller game with picture!
